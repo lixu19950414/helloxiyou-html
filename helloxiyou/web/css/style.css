@@ -74,6 +74,7 @@ body {
 .nav {
 	margin-top: 6%;
 	text-align: center;
+	color: #EC0003;
 }
 .nav li {
 	display: inherit;
@@ -101,7 +102,7 @@ body {
 	background: rgba(15, 15, 15, 1);
 }
 .nav li a:hover {
-	color: #FFFFFF;
+	color: #FF0004;
 	background: rgba(15, 15, 15, 1);
 	text-align: left;
 }

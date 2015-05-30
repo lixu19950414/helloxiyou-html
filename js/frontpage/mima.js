@@ -1,9 +1,9 @@
 function tanchuang(){
 	var password = prompt("Enter password.");
 	if(password == "helloxiyou"){
-		window.open('helloxiyou/web/index.html','_blank');	
+		window.open('helloxiyou/web/index.html','_self');	
 	}
-	else if(password == ""){
+	else if(password == ""||password == null){
 			
 	}
 	else{
